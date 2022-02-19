@@ -17,7 +17,7 @@
 
 <hr>
 
-### 🔭 I’m currently working with ...  
+#### 🔭 I’m currently working with ...  
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -28,7 +28,7 @@
 
 <hr>
 
-### 🌱 I'm currently learning...  
+#### 🌱 I'm currently learning...  
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
