@@ -27,10 +27,16 @@
 
 <hr>
 
-<h4>🌱  I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
+### 🌱 I'm currently learning...  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+</div>
 
 
 <p align='right'>
