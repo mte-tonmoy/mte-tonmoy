@@ -1,20 +1,11 @@
+<h1 align='Left'> Hi there, I'm Tonmoy </h1>
 
-#<h1 align='center'> Hi there, I'm Tonmoy </h1>
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy)
+[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy)
+[![Gamail URL](https://img.shields.io/static/v1?color=red&label=Gmail&logo=Gmail&logoColor=white&style=for-the-badge&message=mail)](mailto:toufique0611@gmail.com?subject=Olá%20Stefany)
 
 
-<p align='center'>
- 
-</p>
-<div align="center">
-<a href="https://linkedin.com/in/mte-tonmoy" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/mte.tonmoy" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
- <a href="mailto:toufique0611@gmail.com?subject=Olá%20Stefany" target="_blank">
-    <img src=https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-    </a>
 </div>  
 
 
