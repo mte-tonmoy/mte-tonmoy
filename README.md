@@ -1,3 +1,11 @@
+body {
+  background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
 <h1 align='center'> Hi there 👋, I'm Tonmoy  👩‍💻 </h1>
 
 
