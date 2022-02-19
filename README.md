@@ -1,9 +1,6 @@
 <style>
-body {
-  background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
+p {
+  background-image: url('![image](https://user-images.githubusercontent.com/77458527/154811887-536d30e1-b3f2-44b7-8ed8-fa461231ceab.png)');
 }
 </style>
 
