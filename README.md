@@ -4,12 +4,10 @@
 <p align='center'>
  
 </p>
+<p align="center">
 <a href="https://linkedin.com/in/mte-tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mte-tonmoy" height="30" width="40" /></a>
 <a href="https://fb.com/mte.tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mte.tonmoy" height="30" width="40" /></a>
 <p align='center'>
-
-  <a href="https://www.linkedin.com/in/mte-tonmoy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:toufique0611@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
