@@ -1,8 +1,3 @@
-<style>
-p {
-  background-image: url('![image](https://user-images.githubusercontent.com/77458527/154811887-536d30e1-b3f2-44b7-8ed8-fa461231ceab.png)');
-}
-</style>
 
 <h1 align='center'> Hi there 👋, I'm Tonmoy  👩‍💻 </h1>
 
@@ -10,12 +5,14 @@ p {
 <p align='center'>
  
 </p>
-<p align="center">
-<a href="https://linkedin.com/in/mte-tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mte-tonmoy" height="30" width="40" /></a>
-<a href="https://fb.com/mte.tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mte.tonmoy" height="30" width="40" /></a>
-<p align='center'>
-
-</p>
+<div align="center">
+<a href="https://linkedin.com/in/mte-tonmoy" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/mte.tonmoy" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
 <hr>
