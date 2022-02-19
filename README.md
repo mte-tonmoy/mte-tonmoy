@@ -5,7 +5,7 @@
  
 </p>
 <a href="https://linkedin.com/in/mte-tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mte-tonmoy" height="30" width="40" /></a>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mte.tonmoy)  
+<a href="https://fb.com/mte.tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mte.tonmoy" height="30" width="40" /></a>
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/mte-tonmoy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
