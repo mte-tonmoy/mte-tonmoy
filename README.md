@@ -1,4 +1,4 @@
-![header](https://www.linkpicture.com/q/300-design.png)
+![header](https://www.linkpicture.com/q/final-design.png)
 <hr> 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy)
