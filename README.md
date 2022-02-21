@@ -1,6 +1,5 @@
-![header](https://www.linkpicture.com/q/Hi-there_1.png)
-<h1 align='Left'> Hi there, I'm Tonmoy </h1>
-
+![header](https://www.linkpicture.com/q/Untitled-design_38.png)
+<hr> 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy)
