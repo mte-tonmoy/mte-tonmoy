@@ -1,13 +1,12 @@
 ![header](https://www.linkpicture.com/q/final-design.png)
 <hr> 
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy)
-[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy)
-[![Gamail URL](https://img.shields.io/static/v1?color=red&label=Gmail&logo=Gmail&logoColor=white&style=for-the-badge&message=mail)](mailto:toufique0611@gmail.com?subject=Olá%20Stefany)
+#### 📞 Contact withe me ... 
+<div align="center">
 
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy) [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy)  [![Gamail URL](https://img.shields.io/static/v1?color=red&label=Gmail&logo=Gmail&logoColor=white&style=for-the-badge&message=mail)](mailto:toufique0611@gmail.com?subject=Olá%20Stefany)
 
 </div>  
-
 
 <hr>
 
