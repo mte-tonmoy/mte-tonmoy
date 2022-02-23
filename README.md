@@ -1,7 +1,7 @@
 ![header](https://www.linkpicture.com/q/300-design-1.png)
 <hr> 
 
-#### 📞 Contact withe me ... 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%93%9E+Contact+withe+me+...+"></img>
 <div align="center">
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy) [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy)  [![Gamail URL](https://img.shields.io/static/v1?color=red&label=Gmail&logo=Gmail&logoColor=white&style=for-the-badge&message=mail)](mailto:toufique0611@gmail.com?subject=Olá%20Stefany)
@@ -10,7 +10,7 @@
 
 <hr>
 
-#### 🔭 I’m currently working with ...  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+with+..."></img>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -21,7 +21,7 @@
 
 <hr>
 
-#### 🌱 I'm currently learning...  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%8C%B1+I%27m+currently+learning..."></img>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
