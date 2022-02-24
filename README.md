@@ -1,5 +1,6 @@
-![header](https://www.linkpicture.com/q/300-design-1.png)
-<hr> 
+
+
+<h1>Hi there, I'm Tonmoy</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%93%9E+Contact+withe+me+...+"></img>
 <div align="center">
@@ -23,11 +24,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%8C%B1+I%27m+currently+learning..."></img>
 <div align="left">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
