@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%93%9E+Contact+withe+me+...+"></img>
 <div align="center">
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy) [![Gamail URL](https://img.shields.io/static/v1?color=red&label=Gmail&logo=Gmail&logoColor=white&=for-the-badge&message=mail)](mailto:toufique0611@gmail.com?subject=Olá%20Stefany) [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy) [![Telegram URL](https://img.shields.io/static/v1?color=blue&label=Telegram&logo=Telegram&logoColor=white&=for-the-badge&message=Message)](https://t.me/Toufique_Elahi_Tonmoy) 
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy) [![Gamail URL](https://img.shields.io/static/v1?color=blue&label=Gmail&logo=Gmail&logoColor=rede&style=for-the-badge&message=mail)](mailto:toufique0611@gmail.com?subject=Olá%20Stefany) [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy) [![Telegram URL](https://img.shields.io/static/v1?color=blue&label=Telegram&logo=Telegram&logoColor=white&style=for-the-badge&message=Message)](https://t.me/Toufique_Elahi_Tonmoy) 
 
 </div>  
 
