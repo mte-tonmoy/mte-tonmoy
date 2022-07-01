@@ -2,11 +2,14 @@
 <h1>Hi there, I'm Tonmoy</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%93%9E+Contact+withe+me+...+"></img>
-<div align="center">
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&message=Connect)](https://www.linkedin.com/in//mte-tonmoy) [![Gamail URL](https://img.shields.io/static/v1?color=blue&label=Gmail&logo=Gmail&logoColor=rede&style=for-the-badge&message=mail)](mailto:toufique0611@gmail.com?subject=Olá%20Stefany) [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Message)](https://www.facebook.com/mte.tonmoy) [![Telegram URL](https://img.shields.io/static/v1?color=blue&label=Telegram&logo=Telegram&logoColor=white&style=for-the-badge&message=Message)](https://t.me/Toufique_Elahi_Tonmoy) 
-
-</div>  
+<p align="center">
+<a href="https://t.me/Toufique_Elahi_Tonmoy" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="mte-tonmoy"/>
+<a href="https://discord.com/channels/@5074/949699748762374204" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/discord-logo.png" alt="mte-tonmoy"/>
+<a href="https://www.facebook.com/mte.tonmoy/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="mte-tonmoy"/></a>
+<a href="mailto:toufique0611@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="@toufique_elahi_tonmoy"/></a>
+<a href="https://www.linkedin.com/in/mte-tonmoy/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="mte-tonmoy"/></a>       
+</p>
 
 <hr>
 
