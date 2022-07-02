@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"></img>
 <h1>Hi there, I'm Tonmoy</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%93%9E+Contact+withe+me+...+"></img>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Times+new+roman&color=%2336BCF7&lines=%F0%9F%93%9E+Contact+with+me+...+"></img>
 
 <p align="center">
 <a href="https://t.me/Toufique_Elahi_Tonmoy" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="mte-tonmoy"/>
