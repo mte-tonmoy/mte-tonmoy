@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=5000&color=F8DA59&random=false&width=900&lines=Hi+there%2C+I'm+Toufique+Elahi+Tonmoy" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+With+me+" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+With+me+" alt="Typing SVG" />
 <div align="left">
   <a href="https://www.linkedin.com/in/mte-tonmoy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
