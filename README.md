@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"></img>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=FFA500&repeat=false&random=false&width=900&lines=Hi+there%2C+I'm+Toufique+Elahi+Tonmoy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F8DA59&repeat=false&random=false&width=900&lines=Hi+there%2C+I'm+Toufique+Elahi+Tonmoy" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+With+me+" alt="Typing SVG" /></a>
 <div align="left">
