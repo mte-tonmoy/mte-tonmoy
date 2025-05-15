@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mte-tonmoy" alt="mte-tonmoy" /></a> </p>
 
 <h3 align="left">About Me</h3>
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="https://github.com/mte-tonmoy/mte-tonmoy/blob/main/Assets/Animation%20-%201747311916523.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🔭 I’m currently working on **API Testing, Selenium, Automation Frameworks**
 
