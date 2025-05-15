@@ -35,7 +35,7 @@
 <a href="https://www.java.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.jenkins.io" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linux.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://github.com/mte-tonmoy/mte-tonmoy/blob/main/Assets/SQL.png" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://postman.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://katalon.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/960px-Katalon-logo-vector.svg.png?20230927024859" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://jmeter.apache.org" target="blank"><img align="center" src="https://jmeter.apache.org/images/jmeter_square.svg" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
