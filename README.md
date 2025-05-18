@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/mte-tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mte-tonmoy" height="30" width="40" /></a>
 <a href="mailto:toufique0611@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40" /></a>
 <a href="https://t.me/mte_tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="mte-tonmoy" height="30" width="40" /></a>
+<a href="https://wa.me/+8801601172107" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="mte-tonmoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Testing Tools & Technology:</h3>
